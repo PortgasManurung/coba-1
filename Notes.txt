@@ -1,0 +1,20 @@
+Class : Blueprint/ Konsep ( Punya => Attribut & Method)
+Object : Perwujudan dari class (Cth: Mobil dll)
+
+
+public
+protected
+private
+No Modifier
+
+
+static method => bisa dipanggil tanpa instasiasi walau dalam 1 kelas
+non statis method => harus instansiasi dulu, panggil kelas nya dulu
+
+Interface dapat get dari 2 parent
+
+Abstraksi masih belum tau????
+
+Interface(Full Abstraction)
+Abstract Class (Partial Abstracsion)
+
